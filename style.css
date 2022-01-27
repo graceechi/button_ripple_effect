@@ -33,6 +33,10 @@ body {
     border-radius: 15px;
   }
   
+  button:hover {
+    cursor: pointer;
+  }
+
   button:focus {
     outline: none;
   }
